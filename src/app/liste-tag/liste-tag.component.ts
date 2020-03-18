@@ -6,11 +6,11 @@ export interface Tag {
 }
 
 const ELEMENT_DATA: Tag[] = [
-  {name: 'Hydrogen'},
-  {name: 'Hydrogen'},
-  {name: 'Hydrogen'},
-  {name: 'Hydrogen'},
-  {name: 'Hydrogen'}
+  {name: '1Hydrogen'},
+  {name: '2Hydrogen'},
+  {name: '3Hydrogen'},
+  {name: '4Hydrogen'},
+  {name: '5Hydrogen'}
 ];
 
 @Component({
